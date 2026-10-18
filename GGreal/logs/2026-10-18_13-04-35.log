@@ -1,0 +1,33 @@
+[2026-10-18 13:04:35.506] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-10-18 13:04:35.507] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-10-18 13:04:35.507] [Xeno] [info] Log file: C:\Users\ferri\Downloads\NinjaReal\NinjaReal\bin\x64\Debug\logs\2026-10-18_13-04-35.log
+[2026-10-18 13:04:35.511] [Xeno] [debug] Client Checker thread: 0x3baa9fe980
+[2026-10-18 13:04:35.511] [Xeno] [debug] Xeno Caching thread: 0x3baa9fe970
+[2026-10-18 13:04:35.511] [Xeno] [debug] WebSockets Cleaner thread: 0x3baa9fe960
+[2026-10-18 13:04:35.512] [Cache] [info] Caching file: C:\Users\ferri\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-10-18 13:04:35.512] [Xeno] [debug] Xeno Server thread: 0x3baa9fe950
+[2026-10-18 13:04:35.514] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-10-18 13:04:35.514] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-10-18 13:04:54.073] [Xeno] [info] Creating new RBXClient: 20760
+[2026-10-18 13:04:54.073] [RBXClient] [info] [20760]: Initializing...
+[2026-10-18 13:04:54.073] [RBXClient] [info] [20760]: Version: version-11f155f3450f4c8e
+[2026-10-18 13:04:54.074] [Xeno] [debug] Created RBXClient instance @0x16b6b7f3890
+[2026-10-18 13:04:54.074] [Xeno] [info] Successfully created RBXClient: 20760
+[2026-10-18 13:04:54.074] [RBXClient] [trace] [20760]: Attempting to retrieve RBXClient data...
+[2026-10-18 13:04:54.179] [RBXClient] [trace] [20760]: Successfully retrieved RBXClient data (Primary)
+[2026-10-18 13:04:54.180] [RBXClient] [error] [20760]: Offsets for version "version-11f155f3450f4c8e" not found. Using offsets from default version: version-cec3ad5889b447cf. Please report this to me (Rizve)
+[2026-10-18 13:04:54.181] [RBXClient] [debug] [20760]: Fetching DataModel...
+[2026-10-18 13:04:54.480] [RBXClient] [debug] [20760]: 	String: 0x1dcda330e90
+[2026-10-18 13:04:54.480] [RBXClient] [debug] [20760]: 	RenderView: 0x1dcb6248cd0
+[2026-10-18 13:04:54.867] [RBXClient] [debug] [20760]: 3258 candidates found for the instruction
+[2026-10-18 13:04:54.869] [RBXClient] [debug] [20760]:  Instruction address: 0x1dba534e97a
+[2026-10-18 13:04:54.869] [RBXClient] [debug] [20760]: Bytecode Patch Watcher thread: 0x3bb45ff2e0
+[2026-10-18 13:04:54.871] [RBXClient] [debug] [20760]: DataModel (Ugc): 0x1dcca89dec0
+[2026-10-18 13:04:54.872] [RBXClient] [debug] [20760]: LocalPlayer: 0x1dccbc430d0
+[2026-10-18 13:04:54.872] [RBXClient] [debug] [freakzkidd (20760)]: LocalPlayer Name: 'freakzkidd'
+[2026-10-18 13:04:54.873] [RBXClient] [trace] [freakzkidd (20760)]: Attaching in-game using translation module.
+[2026-10-18 13:04:54.874] [Xeno] [debug] Patched translation module @0x1dd1f7cd150
+[2026-10-18 13:04:55.157] [RBXClient] [trace] [freakzkidd (20760)]: Intercepted translation module @0x1dd1f7cd150
+[2026-10-18 13:04:55.201] [RBXClient] [trace] [freakzkidd (20760)][::CRefresh]: Client DataModel refreshed
+[2026-10-18 13:04:55.232] [RBXClient] [trace] [freakzkidd (20760)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-10-18 13:04:55.233] [RBXClient] [trace] [freakzkidd (20760)]: Attach ping received from client "freakzkidd", This indicates everything was successful.
